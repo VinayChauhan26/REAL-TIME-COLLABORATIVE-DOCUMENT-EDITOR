@@ -25,4 +25,4 @@ Another important feature is auto‑saving. Every two seconds, the client sends 
 
 OUTPUT-- 
 
-[doceditor.html](https://github.com/user-attachments/files/26333286/doceditor.html)
+<img width="1912" height="958" alt="Image" src="https://github.com/user-attachments/assets/d1448c52-cd44-4d63-b78e-46bd56369654" />
